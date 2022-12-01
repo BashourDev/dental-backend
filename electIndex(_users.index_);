@@ -1,0 +1,13 @@
+=> [34;4mTeamTNT\TNTSearch\TNTGeoSearch[39;24m {#3597
+     +[1mconfig[22m: [36mnull[39m,
+     +[1masYouType[22m: [36mfalse[39m,
+     +[1mmaxDocs[22m: [35m500[39m,
+     +[1mtokenizer[22m: [34;4mTeamTNT\TNTSearch\Support\Tokenizer[39;24m {#3595},
+     +[1mindex[22m: [36mnull[39m,
+     +[1mstemmer[22m: [36mnull[39m,
+     +[1mfuzziness[22m: [36mfalse[39m,
+     +[1mfuzzy_prefix_length[22m: [35m2[39m,
+     +[1mfuzzy_max_expansions[22m: [35m50[39m,
+     +[1mfuzzy_distance[22m: [35m2[39m,
+   }
+
